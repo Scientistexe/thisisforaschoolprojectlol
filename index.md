@@ -10,23 +10,9 @@ _ps this is a rough draft_
 
 Hurricane Hugo originated from a _tropical wave_ heading westward along the African Coast 0n september 9th, 1989
 
-```markdown
-Syntax highlighted code block
+### Historical events related to Hurricane Hugo
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Hurricane hugo was one of the **_STRONGEST_** hurricanes in south carolina history!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

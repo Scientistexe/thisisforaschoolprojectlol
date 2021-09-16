@@ -16,7 +16,7 @@ Hurricane hugo was one of the **_STRONGEST_** hurricanes in south carolina histo
 
 Hurricane Hugo was the **Strongest** hurricane that ever hit the Atlantic Ocean **_(at the time, not present)_**
 
-visit weather.gov .[Here].(https://weather.gov)
+visit weather.gov [Here](https://weather.gov)
 
 ### Jekyll Themes
 

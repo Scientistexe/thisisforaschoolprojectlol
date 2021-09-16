@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Hurricane Hugo
 
-You can use the [editor on GitHub](https://github.com/Scientistexe/thisisforaschoolprojectlol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+!!! This is for a school project please do **NOT** edit or add to this repo !!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_ps this is a rough draft_
 
 ### Markdown
 

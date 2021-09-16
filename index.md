@@ -4,9 +4,11 @@
 
 _ps this is a rough draft_
 
-### Markdown
+**_most information from `weather.gov`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How it happened
+
+Hurricane Hugo originated from a _tropical wave_ heading westward along the African Coast 0n september 9th, 1989
 
 ```markdown
 Syntax highlighted code block

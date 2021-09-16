@@ -14,7 +14,9 @@ Hurricane Hugo originated from a _tropical wave_ heading westward along the Afri
 
 Hurricane hugo was one of the **_STRONGEST_** hurricanes in south carolina history!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hurricane Hugo was the **Strongest** hurricane that ever hit the Atlantic Ocean **_(at the time, not present)_**
+
+visit weather.gov .[Here].(https://weather.gov)
 
 ### Jekyll Themes
 

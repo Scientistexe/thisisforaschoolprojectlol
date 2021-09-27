@@ -7,6 +7,7 @@ _ps this is a rough draft_
 **_most information from `weather.gov`_**
 
 visit weather.gov [Here](https://weather.gov/ilm/hurricanehugo)
+Written by Tim Armstrong
 
 ### How it happened
 
